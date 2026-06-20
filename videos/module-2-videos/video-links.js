@@ -15,4 +15,20 @@
 // the page will show a friendly "coming soon" message instead.
 // ============================================================
 
-const MODULE_2_VIDEOS = [];
+const MODULE_2_VIDEOS = [
+  {
+    "part": 1,
+    "title": "Session 2.1",
+    "url": "https://drive.google.com/file/d/11PhhAMvpmiVJES7uvQkGcobg3Fja3ZoB/view?usp=drive_link"
+  },
+  {
+    "part": 2,
+    "title": "Session 2.2",
+    "url": "https://drive.google.com/file/d/1kyimQPIbKYzyEcbk47zsUX3kT04LvCAO/view?usp=drive_link"
+  },
+  {
+    "part": 3,
+    "title": "Session 2.3",
+    "url": "https://drive.google.com/file/d/1UsJBUdxTlxC9qW1iFkoFLaJi3Sj0QcD5/view?usp=drive_link"
+  }
+];
